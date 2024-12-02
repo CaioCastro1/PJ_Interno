@@ -1,0 +1,13 @@
+# ingore .png
+
+*.png
+
+
+*.mov
+
+# ignore myenv
+
+myenv/
+
+*.jpg
+
